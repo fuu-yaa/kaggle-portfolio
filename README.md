@@ -26,6 +26,6 @@ kaggleアカウント : https://www.kaggle.com/suzukisatsuki
 2. HMS: EDAとデータ構造の理解（日本語）（公開） : https://www.kaggle.com/code/suzukisatsuki/hms-eda  
 3. Catboost model :  
 4. LightGBM model :  
-5. Efficinetnet model :  
+5. Efficinetnet model :  https://shadowed-people-efe.notion.site/HMS-Harmful-Brain-Activity-Classification-ee5082f3f43e4285b573ac0ac32e6592?pvs=74
 6. GradCam :   
 7. EEG spectrogramのRandom sampling（公開） : https://www.kaggle.com/code/suzukisatsuki/eeg-specs-using-randam-sampling  
