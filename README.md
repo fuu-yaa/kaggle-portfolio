@@ -12,3 +12,8 @@
     - lateralized periodic discharges (LPD)
     - lateralized rhythmic delta activity (LRDA)
     - generalized rhythmic delta activity (GRDA)
+    - other
+ 
+ - 評価指標：
+カルバックライブラー情報量
+・・・2つの確率分布（または確率密度関数）がどれだけ異なるかを測定するための指標。 
