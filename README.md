@@ -22,4 +22,10 @@ kaggleアカウント : https://www.kaggle.com/suzukisatsuki
 ※以前本名で作成したアカウントにログインできなくなってしまったので、別名でアカウントを作成しました。自身のアカウントであることの証明としてこちらのgithubのlinkをプロフィールに設定しています。わかりづらくなってしまい申し訳ございません。
 
 ## 公開Notebookと試行まとめ  
-1. HMS: EDAとデータ構造の理解（日本語）（公開） : https://www.kaggle.com/code/suzukisatsuki/hms-eda
+1.
+2. HMS: EDAとデータ構造の理解（日本語）（公開） : https://www.kaggle.com/code/suzukisatsuki/hms-eda  
+3. Catboost model :
+4. LightGBM model :
+5. Efficinetnet model :
+6. GradCam : 
+7. EEG spectrogramのRandom sampling（公開） : https://www.kaggle.com/code/suzukisatsuki/eeg-specs-using-randam-sampling
