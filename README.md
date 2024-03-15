@@ -22,7 +22,7 @@ kaggleアカウント : https://www.kaggle.com/suzukisatsuki
 ※以前本名で作成したアカウントにログインできなくなってしまったので、別名でアカウントを作成しました。自身のアカウントであることの証明としてこちらのgithubのlinkをプロフィールに設定しています。わかりづらくなってしまい申し訳ございません。
 
 ## 公開Notebookと試行まとめ  
-1.
+1.それぞれのノートブックの概要（テキスト） : https://shadowed-people-efe.notion.site/HMS-Harmful-Brain-Activity-Classification-ee5082f3f43e4285b573ac0ac32e6592?pvs=74
 2. HMS: EDAとデータ構造の理解（日本語）（公開） : https://www.kaggle.com/code/suzukisatsuki/hms-eda  
 3. Catboost model :
 4. LightGBM model :
